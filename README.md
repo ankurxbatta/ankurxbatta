@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ankur Batta</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankurxbatta&label=Profile%20views&color=0e75b6&style=flat" alt="ankurxbatta" />
+  <br>
+  <img src="https://img.shields.io/badge/Langara%20College-orange?style=for-the-badge" alt="Langara College" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-1a73e8?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Post--Degree%20Diploma-blueviolet?style=for-the-badge" alt="Post-Degree Diploma" />
 </p>
 
 ## 🧑‍💻 About Me
 
+- 🎓 Student at **Langara College**, pursuing a Post-Degree Diploma in Data Analytics
 - 🔭 I’m passionate about **AI, Machine Learning, Cybersecurity, and Autonomous Systems**
 - 🌱 Currently exploring **simulation optimization and health tech**
 - 💡 Building projects that merge technology & impact
