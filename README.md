@@ -29,8 +29,8 @@
 ## 🌐 Connect with Me
 
 - Website: [iankurb.web.app](https://iankurb.web.app)
-- Twitter: [@iankurbatta](https://twitter.com/iankurbatta)
 - LinkedIn: [linkedin.com/in/ankurbatta](https://linkedin.com/in/ankurbatta)
+- Twitter: [@iankurbatta](https://twitter.com/iankurbatta)
 
 ## ✨ Fun Facts
 
