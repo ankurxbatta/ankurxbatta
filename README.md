@@ -14,10 +14,10 @@
 
 - [AI-driven Penetration Testing](https://github.com/ankurxbatta/AI-driven-penetration-testing)  
   <sub>Automating security assessments with AI</sub>
-- [Simulation Optimization for Autonomous Vehicles](https://github.com/ankurxbatta/Simulation-Optimization-for-Autonomous-Vehicles)  
-  <sub>Research in self-driving car simulation and path planning</sub>
 - [Blood Glucose Prediction for Type 1 Diabetes Patients](https://github.com/ankurxbatta/Blood-Glucose-Prediction-for-Type-1-Diabetes-Patients)  
   <sub>AI for health: predicting glucose levels</sub>
+- [MLESA: Make Lifestyle Easier with Sentiment Analysis](https://github.com/ankurxbatta/MLESA)  
+  <sub>Get instant insights from tweets and reviews distilled into easy-to-understand emojis.</sub>
 
 ## 🛠️ Skills & Tools
 
