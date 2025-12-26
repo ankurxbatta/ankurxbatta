@@ -53,6 +53,6 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankurxbatta&show_icons=true&theme=radical" alt="ankurxbatta's stats" />
-</p>
+</p> -->
