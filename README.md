@@ -41,7 +41,7 @@
 
 ## 🌐 Connect with Me
 
-- Website: [iankurb.web.app](https://iankurbatta.web.app)
+- Website: [iankurbatta.web.app](https://iankurbatta.web.app)
 - LinkedIn: [linkedin.com/in/ankurbatta](https://linkedin.com/in/ankurbatta)
 - Twitter: [@iankurbatta](https://twitter.com/iankurbatta)
 
