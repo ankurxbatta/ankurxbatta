@@ -37,6 +37,14 @@
 **MLOps & Cloud** — AWS (EC2, S3, SageMaker), Docker, Kubernetes, MLflow, FastAPI, Celery/Redis, GitHub Actions CI, pytest, Linux
 **Languages & Data** — Python, SQL, R, TypeScript, C++ · pandas, NumPy, MongoDB Atlas Vector Search, PostgreSQL
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankurxbatta/ankurxbatta/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankurxbatta/ankurxbatta/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ankurxbatta/ankurxbatta/output/github-snake.svg" />
+  </picture>
+</div>
+
 ## 🔥 More than models
 
 - 👾 Always up for a hackathon — that's where EventOps AI (Web Summit Vancouver) and the rescue drone swarm (StormHacks 2026) were born
