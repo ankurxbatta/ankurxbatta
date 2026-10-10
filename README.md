@@ -12,14 +12,6 @@
 - 🎓 Post-Degree Diploma in Data Analytics, Langara College — **4.11 CGPA**, graduated with distinction · B.Tech Computer Science & Engineering, Punjab Technical University
 - 📍 Vancouver, BC — open to Machine Learning Engineer roles · Eligible to work in Canada (Open Work Permit)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankurxbatta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="Ankur's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurxbatta&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Ankur's top languages" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ankurxbatta&theme=tokyonight&hide_border=true" height="165" alt="Ankur's contribution streak" />
-</div>
-
 ## 🛠️ Technical Skills
 
 <div>
