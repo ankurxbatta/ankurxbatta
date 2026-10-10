@@ -30,6 +30,12 @@
 - Behavior of Large Language Models — Infosys Springboard
 - Deep Learning Onramp — MathWorks
 
+## 🔥 More than models
+
+- 👾 Always up for a hackathon — that's where EventOps AI (Web Summit Vancouver) and the rescue drone swarm (StormHacks 2026) were born
+- 🌍 I build things that matter, and I make sure I live life too — not a nerd, just awesome
+- 🧠 *"The best way to predict the future is to invent it."*
+
 ## 🌐 Connect with me
 
 - 💼 [linkedin.com/in/ankurbatta](https://www.linkedin.com/in/ankurbatta)
