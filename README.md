@@ -1,12 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I%27m+Ankur+Batta;I+build+ML+systems+that+ship;Held+to+the+numbers%2C+always" alt="Ankur Batta — animated intro" />
+  <img src="terminal.svg" alt="Ankur Batta — animated terminal" width="100%" />
 </div>
 
 ### Machine Learning Engineer — I build ML and LLM systems that run in production, and hold them to the numbers.
 
+<div align="justify">
+
 - 🔭 Flagship build: **[QuizMark](https://github.com/ankurxbatta/QuizMark)** — a RAG auto-marking platform that ran a real graded quiz for **~150 students** on **~$22** of model spend, agreeing with the instructor's independent grading at **r = 0.80**
 - 🎓 Post-Degree Diploma in Data Analytics, Langara College — **4.11 CGPA**, graduated with distinction · B.Tech Computer Science & Engineering, Punjab Technical University
 - 📍 Vancouver, BC — open to Machine Learning Engineer roles · Eligible to work in Canada (Open Work Permit)
+
+</div>
 
 ## 🛠️ Technical Skills
 
@@ -27,11 +31,19 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
+<div align="justify">
+
 **ML & Modelling** — scikit-learn, CatBoost, XGBoost, TensorFlow/Keras, Hugging Face Transformers (BERT fine-tuning), Deep Learning, NLP
+
 **LLMs & Retrieval** — RAG, embeddings & vector search, Reciprocal Rank Fusion, hybrid reranking, LangChain, Model Context Protocol (MCP), tool calling, LLM cost optimization · OpenAI, Anthropic, Gemini APIs
+
 **Evaluation** — Recall@k, MRR, nDCG@k, ROC/PR AUC, calibration & Brier scores, stratified k-fold CV, class imbalance
+
 **MLOps & Cloud** — AWS (EC2, S3, SageMaker), Docker, Kubernetes, MLflow, FastAPI, Celery/Redis, GitHub Actions CI, pytest, Linux
+
 **Languages & Data** — Python, SQL, R, TypeScript, C++ · pandas, NumPy, MongoDB Atlas Vector Search, PostgreSQL
+
+</div>
 
 <div align="center">
   <picture>
@@ -43,9 +55,13 @@
 
 ## 🔥 More than models
 
+<div align="justify">
+
 - 👾 Always up for a hackathon — that's where EventOps AI (Web Summit Vancouver) and the rescue drone swarm (StormHacks 2026) were born
 - 🌍 I build things that matter, and I make sure I live life too — not a nerd, just awesome
 - 🧠 *"The best way to predict the future is to invent it."*
+
+</div>
 
 ## 🌐 Connect with me
 
