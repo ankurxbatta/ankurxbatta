@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="banner.gif" alt="Animated neural network" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I%27m+Ankur+Batta;I+build+ML+systems+that+ship;Held+to+the+numbers%2C+always" alt="Ankur Batta — animated intro" />
 </div>
 
