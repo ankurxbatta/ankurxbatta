@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="terminal.svg" alt="Ankur Batta — animated terminal" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I%27m+Ankur+Batta;I+build+ML+systems+that+ship;Held+to+the+numbers%2C+always" alt="Ankur Batta — animated intro" />
 </div>
 
 ### Machine Learning Engineer — I build ML and LLM systems that run in production, and hold them to the numbers.
