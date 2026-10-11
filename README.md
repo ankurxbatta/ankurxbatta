@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=header&text=ANKUR%20BATTA&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=MACHINE%20LEARNING%20ENGINEER&descSize=20&descAlign=50&descAlignY=62" alt="Ankur Batta — header" width="100%" />
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I%27m+Ankur+Batta;I+build+ML+systems+that+ship;Held+to+the+numbers%2C+always" alt="Ankur Batta — animated intro" />
 </div>
@@ -70,5 +68,3 @@
 - 💼 [linkedin.com/in/ankurbatta](https://www.linkedin.com/in/ankurbatta)
 - 🌐 [iankurbatta.web.app](https://iankurbatta.web.app)
 - 📧 ankurbatta.30@gmail.com
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=120&section=footer" alt="footer wave" width="100%" />
